@@ -30,5 +30,5 @@ Email: dingwan0331@gmail.com
 
 # Git hub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats-c1hb.vercel.app/api?username=dingwan0331&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingwan0331&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingwan0331&layout=compact)](https://github.com/dingwan0331/github-readme-stats)
