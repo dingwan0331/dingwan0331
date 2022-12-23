@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Profile
 
-- 위코드 부트캠프 34기 백엔드 과정 수료 (2022/05 ~ 2022/08)
+- 위코드 부트캠프 34기 백엔드 과정 수료 (2022/06 ~ 2022/08)
 
 <br>
 
