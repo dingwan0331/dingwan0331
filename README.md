@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <br>
 
-Blog: [Tistory](https://dingwan0331.tistory.com)  
 Email: dingwan0331@gmail.com
 
 # Stack
