@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-Email: dingwan0331@gmail.com
+Email: dev.dingwan@gmail.com
 
 # Stack
 
